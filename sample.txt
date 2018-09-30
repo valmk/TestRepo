@@ -4,4 +4,8 @@ hello sam
 Added new line in new file.
 =======
 updating on 30/09/2018
+<<<<<<< HEAD
 adding new line in local`
+=======
+added new line on remote 
+>>>>>>> 8de28764b67d7cacaae6b934b138b26639734721
